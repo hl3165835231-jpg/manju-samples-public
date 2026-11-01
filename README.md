@@ -1,1 +1,9 @@
-# manju-samples-public
+# zhenren_manju ep01 渲染样片（压缩包）
+
+- 项目：真人写实漫剧《工具人》ep01
+- 内容：qc08b 分镜 shot01–12（Wan2.2 FP8 I2V，lip_sync=preview）+ 早期 30s 测片
+- 压缩：960p 高、CRF30、去/降音频，便于专家在线预览
+- 成片原版已在百度 `/漫剧成品/真人写实漫剧/ep01/`（MD5 5c1703e3358ec66ac22a813af596aa8e）
+- 请专家侧重：角色一致性、口型/音画、动作抖动、写实质感与竖屏构图
+
+生成时间：2026-11-01 Asia/Shanghai
